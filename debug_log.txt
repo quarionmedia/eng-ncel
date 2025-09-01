@@ -1,0 +1,8 @@
+--- Watchlist Debug Log ---
+2025-08-27 04:06:26 - Adım 1: toggle() fonksiyonu başladı.
+2025-08-27 04:06:26 - Adım 2: Kullanıcı girişi doğrulandı. User ID: 3
+2025-08-27 04:06:26 - Adım 3: POST verileri alındı. Content ID: 23, Type: movie
+2025-08-27 04:06:26 - Adım 4: WatchlistModel nesnesi oluşturuluyor...
+2025-08-27 04:06:26 - Adım 5: WatchlistModel nesnesi başarıyla oluşturuldu.
+2025-08-27 04:06:26 - Adım 6: toggleWatchlist metodu çağrılıyor...
+2025-08-27 04:06:26 - Adım 7: toggleWatchlist metodu başarıyla çalıştı. Sonuç: {"status":"success","action":"removed"}
